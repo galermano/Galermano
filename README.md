@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Germano</h1>
 <h3 align="center">I work as a full stack developer, UX designer and IT analyst.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHczaXQ5Ym9vbmt6bDV1OW05bTdwZWVpbXppamI4c3lwbWQzZ2JtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp")>
+
 - 🌱 I’m currently learning **NextJS, Automation, IA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/galermano](https://github.com/galermano)
