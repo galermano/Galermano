@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Germano</h1>
 <h3 align="center">I work as a full stack developer, UX designer and IT analyst.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHczaXQ5Ym9vbmt6bDV1OW05bTdwZWVpbXppamI4c3lwbWQzZ2JtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp")>
+<img align="center" alt="Coding" width="1000" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5hOXk4Z3IzcWMzYnRtZXIzcXE2ZmxuN2g0azM3emwzbHY1enF3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/200.webp">
+
 
 - 🌱 I’m currently learning **NextJS, Automation, IA**
 
