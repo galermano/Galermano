@@ -15,7 +15,20 @@
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/gabriel lima germano)
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-lima-germano" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/galermano" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:gabriellgermano02@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.canva.com/design/DAGHYtD0OJM/crmGhBTiQAiFObsvQQZ7kQ/view" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
